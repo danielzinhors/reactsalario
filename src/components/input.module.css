@@ -1,0 +1,23 @@
+.salariobruto {
+  color: rgb(8, 10, 128);
+}
+
+.baseinss {
+  color: #e67e22;
+}
+
+.descontoinss {
+  color: #e67e22;
+}
+
+.baseirrf {
+  color: #c0392b;
+}
+
+.descontoirrf {
+  color: #c0392b;
+}
+
+.salarioliquido {
+  color: #16a085;
+}

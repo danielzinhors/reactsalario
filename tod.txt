@@ -1,0 +1,21 @@
+1) Deverá possuir um input editável e diversos outros 
+      inputs somente-leitura para exibir informações 
+      sobre o cálculo de salário conforme as leis da CLT em 2020. 
+      Só devem ser considerados os cálculos de desconto de INSS e IRPF, 
+      ou seja, outros descontos e dependentes devem ser ignorados. 
+      Os valores a serem exibidos são:
+      O site de referência para regras de cálculo e comparação de valores calculados
+      deve ser o: https://www.todacarreira.com/calculo-salario-liquido/
+  (V) Salário bruto (editável pelo usuário).
+  (V) Base INSS (somente-leitura).
+  (V) Desconto INSS (somente-leitura).
+  (V) Base IRPF (somente-leitura).
+  (V) Desconto IRPF (somente-leitura).
+  (V) Salário líquido (somente-leitura)
+
+2) Além dos cálculos, o aluno deverá implementar uma 
+      barra horizontal, indicando com cores diferenciadas:
+  (V) Percentual de desconto de INSS
+  (V) Percentual de desconto do IRPF
+  (V) Salário líquido
+  (V) A soma dos 3 itens acima deve ser exatamente o valor do salário bruto (100%).
